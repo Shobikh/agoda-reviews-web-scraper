@@ -9,7 +9,7 @@ Mengambil username, ulasan, rating dan waktu dari kolom reviews lalu menyimpanny
 - Webdriver Manager
 - Pandas
 - Openpyxl
-- BautifulSoup
+- BeautifulSoup
 
 ### Cara Menggunakan
 - Buat virtual environtment dan jalankan venv
